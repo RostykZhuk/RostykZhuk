@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my page!<br>I'm Rostyk, a student leaving in Ukraine,Lviv.I am on the way to junior Frontend developer. Currently learning Reactjs and look for vacancies
+Welcome to my page!<br>I'm Rostyk, a student living in Ukraine,Lviv.I am on the way to junior Frontend developer. Currently learning Reactjs and looking for vacancies
 
 
 ## 🌐 Socials:
