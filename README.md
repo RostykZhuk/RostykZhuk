@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rostykzhuk" alt="rostykzhuk" /></a> </p>
 
-- 🌱 I’m currently working in **Appexoft, the best on React-Marathon by SoftServe**
-
-- 👨‍💻 All of my projects are available at [https://github.com/RostykZhuk/pet_projects](https://github.com/RostykZhuk/pet_projects)
 
 - 📫 How to reach me **rostukzhuk@gmail.com**
 
