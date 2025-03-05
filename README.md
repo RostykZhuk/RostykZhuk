@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rostyk</h1>
-<h3 align="center">A passionate Frontend Engineer developer from Ukraine</h3>
+<h3 align="center">A passionate FullStack Engineer developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rostykzhuk&label=Profile%20views&color=0e75b6&style=flat" alt="rostykzhuk" /> </p>
 
